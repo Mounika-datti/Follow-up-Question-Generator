@@ -1,0 +1,16 @@
+{
+  "clarification": [
+    "Can you explain in more detail?",
+    "Could you elaborate further?"
+  ],
+
+  "missing_topic": [
+    "Can you explain the missing concepts?",
+    "What about the remaining related topics?"
+  ],
+
+  "advanced": [
+    "Can you provide a real-world example?",
+    "How is this used in practical applications?"
+  ]
+}
